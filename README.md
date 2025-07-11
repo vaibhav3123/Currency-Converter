@@ -2,6 +2,8 @@
 
 A sleek and responsive currency converter web application built using **HTML**, **CSS**, and **JavaScript**. This app allows users to convert amounts between different currencies using **real-time exchange rates** fetched from a public API.
 
+🌐 [Live Demo](https://vaibhav3123.github.io/Currency-Converter/)
+
 ## 🚀 Features
 
 - 🔁 Convert between 160+ international currencies
@@ -19,7 +21,6 @@ A sleek and responsive currency converter web application built using **HTML**, 
 | JavaScript | Functionality and API integration |
 | ExchangeRate-API | Public API for currency data |
 
-🌐 Live Demo(https://vaibhav3123.github.io/Currency-Converter/)
 
 
 
