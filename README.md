@@ -19,8 +19,7 @@ A sleek and responsive currency converter web application built using **HTML**, 
 | JavaScript | Functionality and API integration |
 | ExchangeRate-API | Public API for currency data |
 
+🌐 Live Demo(https://vaibhav3123.github.io/Currency-Converter/)
 
-🌐 Live Demo
-👉 View Live Project
 
-(Replace with your actual GitHub Pages link)
+
